@@ -8,7 +8,7 @@ import kotlinx.android.synthetic.main.good_row.view.*
 
 class HomeAdapter: RecyclerView.Adapter<CustomViewHolder>(){
 
-    val goodNames = listOf("Shorts", "Socks", "Dress", "shoes", "trousers", "Jacket")
+    val goodNames = listOf("item", "item1", "item2")
 
     //number of items
     override fun getItemCount(): Int {
