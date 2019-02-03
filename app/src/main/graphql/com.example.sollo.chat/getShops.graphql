@@ -1,0 +1,15 @@
+query getGood{
+    goods{
+        id
+        name
+        createdBy
+        icon
+        shops{
+            id
+            user{
+                userName
+                photo
+            }
+        }
+    }
+}

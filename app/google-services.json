@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "955634216782",
+    "firebase_url": "https://chat-c6747.firebaseio.com",
+    "project_id": "chat-c6747",
+    "storage_bucket": "chat-c6747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955634216782:android:906b5f045558671e",
+        "android_client_info": {
+          "package_name": "com.example.sollo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955634216782-plhqurc21cr6spomikjqj2906ecf5905.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjeYVUB3j5d48Bz3MMDZHRDkuTDYtkSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
